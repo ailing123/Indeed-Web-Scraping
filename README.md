@@ -6,7 +6,7 @@ I used this data to answer the following questions.
 1.	What is the highest frequency language for each city?
 2.	Is there any difference among those cities?
 
-After answering these questions, I wrote a story detailing my findings in Medium. The full article can be found here.
+After answering these questions, I wrote a story detailing my findings in Medium. The full article can be found here: https://medium.com/@ating5666/web-scrape-indeed-for-popular-programming-languages-of-data-scientist-jobs-93b95083becf
 
 
 
